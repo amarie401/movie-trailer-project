@@ -19,6 +19,6 @@ $ cd udacity-movie-trailer-project
 <h3>Execute the program:</h3>
 $ python entertainment_center.py
 
-A browser should open on your local machine and and render the HTML template with Pooglia's favorite movies. Click on a movie thumbnail to view the trailer!
+A browser should open on your local machine and and render the HTML template with Amiee's favorite movies. Click on a movie thumbnail to view the trailer!
 
 View a live demo here: http://tinyurl.com/jruycz8
